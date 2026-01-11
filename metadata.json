@@ -1,0 +1,5 @@
+{
+  "name": "Home Inventory AI",
+  "description": "Smart home inventory manager powered by Gemini. Track rooms, items, and projects with intelligent manual finding and organization.",
+  "requestFramePermissions": []
+}
